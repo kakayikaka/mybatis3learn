@@ -11,13 +11,7 @@ MyBatis SQL Mapper Framework for Java
 
 ![mybatis](https://mybatis.org/images/mybatis-logo.png)
 
-The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications.
-MyBatis couples objects with stored procedures or SQL statements using an XML descriptor or annotations.
-Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools.
-
-Essentials
+MyBatis 开发专栏 —— 带注释的源码工程
 ----------
 
-* [See the docs](https://mybatis.org/mybatis-3)
-* [Download Latest](https://github.com/mybatis/mybatis-3/releases)
-* [Download Snapshot](https://oss.sonatype.org/content/repositories/snapshots/org/mybatis/mybatis/)
+* [专栏首页](maling.io/docs/mybatis/)
