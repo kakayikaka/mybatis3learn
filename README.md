@@ -14,4 +14,4 @@ MyBatis SQL Mapper Framework for Java
 MyBatis 开发专栏 —— 带注释的源码工程
 ----------
 
-* [专栏首页](maling.io/docs/mybatis/)
+* [MyBatis 专栏首页](maling.io/docs/mybatis/)
